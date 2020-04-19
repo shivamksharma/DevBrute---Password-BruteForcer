@@ -1,4 +1,4 @@
-# DevBrute---Password-BruteForcer
+# DevBrute- A Password-BruteForcer
 
 DEVBRUTE 
          v_1.0
@@ -7,8 +7,9 @@ Devbrute is my first project in InfoSec. It is basically a Brute Forcer for All 
 
 YOU PROBABLY WONDERING THAT HOW THIS TOOL WORKS ?
 
-Step 1 - Install The Requirements [pip install -r requirements.txt]
-Step 2 - Then Run the commands [python devbrute.py -s (socilamedia) -username (username) -w (wordlist)]
+#Step 1 - Install The Requirements [pip install -r requirements.txt]
+
+#Step 2 - Then Run the commands [python devbrute.py -s (socilamedia) -username (username) -w (wordlist)]
          
 
 #NOTES - This tool/script uses selenium web driver, and Xvfb and pyvirtualdisplay to make the web driver invisible so you can keep doing work, this script also uses STEM as the proxy. But I'm not Responsible for You Shits !
